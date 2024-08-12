@@ -1,0 +1,24 @@
+/* styles.css */
+*
+{
+    background-color: black;
+    box-sizing: border-box;
+}
+#display {
+    background-color: #f8f9fa;
+    border: 2px solid #dee2e6;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+#laps {
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.list-group-item {
+    border: none;
+}
